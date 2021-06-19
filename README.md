@@ -18,3 +18,7 @@ This is a simple web project, deployment can be on any web server or even a loca
 
 
 Sample website with plenty of files for demos
+
+## Copyright
+
+2021 Git.Training
